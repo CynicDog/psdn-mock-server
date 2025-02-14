@@ -5,8 +5,8 @@
       "ID": "W1",
       "NAME": "default",
       "TABLES": [
-        "NRS",
-        "FDS"
+        "LBF",
+        "QWT"
       ]
     },
     {
