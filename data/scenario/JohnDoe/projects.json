@@ -2,7 +2,7 @@
   "username": "JohnDoe",
   "data": [
     {
-      "ID": "W1",
+      "ID": "J1",
       "NAME": "default",
       "TABLES": [
         "LBF",
@@ -10,8 +10,14 @@
       ]
     },
     {
-      "ID": "W2",
+      "ID": "J2",
       "NAME": "default(2)",
+      "TABLES": [
+      ]
+    },
+    {
+      "ID": "J3",
+      "NAME": "default(3)",
       "TABLES": [
       ]
     }
