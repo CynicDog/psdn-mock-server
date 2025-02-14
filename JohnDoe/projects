@@ -1,0 +1,19 @@
+{
+  "username": "JohnDoe",
+  "projects": [
+    {
+      "ID": "W1",
+      "NAME": "default",
+      "TABLES": [
+        "NRS",
+        "FDS"
+      ]
+    },
+    {
+      "ID": "W2",
+      "NAME": "default(2)",
+      "TABLES": [
+      ]
+    }
+  ]
+}
