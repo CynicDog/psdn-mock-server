@@ -40,7 +40,26 @@
       "COL_NAME": "COLUMN_1",
       "COL_NAME_LGCL": "Logical Name 1",
       "COL_TYPE": "DECIMAL",
-      "RULES": [],
+      "RULES": [
+        {
+          "RULE_ID": "R4",
+          "VRBLs": [
+            {
+              "id": "P9",
+              "value": "CODE_P9_C1"
+            },
+            {
+              "id": "P10",
+              "value": 1
+            },
+            {
+              "id": "P13",
+              "value": 1
+            }
+          ],
+          "ORDER": 0
+        }
+      ],
       "DESC": ""
     },
     {
@@ -56,7 +75,26 @@
       "COL_NAME": "COLUMN_3",
       "COL_NAME_LGCL": "Logical Name 3",
       "COL_TYPE": "DECIMAL",
-      "RULES": [],
+      "RULES": [
+        {
+          "RULE_ID": "R4",
+          "VRBLs": [
+            {
+              "id": "P9",
+              "value": "CODE_P9_C1"
+            },
+            {
+              "id": "P10",
+              "value": 1
+            },
+            {
+              "id": "P13",
+              "value": 1
+            }
+          ],
+          "ORDER": 0
+        }
+      ],
       "DESC": ""
     },
     {
@@ -100,7 +138,7 @@
       "DESC": ""
     },
     {
-      "APPT_YN": 1,
+      "APPT_YN": 0,
       "COL_NAME": "COLUMN_9",
       "COL_NAME_LGCL": "Logical Name 9",
       "COL_TYPE": "DECIMAL",
@@ -108,7 +146,7 @@
       "DESC": ""
     },
     {
-      "APPT_YN": 1,
+      "APPT_YN": 0,
       "COL_NAME": "COLUMN_10",
       "COL_NAME_LGCL": "Logical Name 10",
       "COL_TYPE": "VARCHAR",
