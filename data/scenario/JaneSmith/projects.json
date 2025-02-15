@@ -1,5 +1,36 @@
 {
   "username": "JaneSmith",
   "data": [
+    {
+      "ID": "J1",
+      "NAME": "default",
+      "TABLES": [
+        "LBF",
+        "QWT"
+      ]
+    },
+    {
+      "ID": "J2",
+      "NAME": "default (2)",
+      "TABLES": [
+        "HLT",
+        "KBW"
+      ]
+    },
+    {
+      "ID": "J3",
+      "NAME": "default (3)",
+      "TABLES": [
+        "LBF",
+        "KBW",
+        "HLT"
+      ]
+    },
+    {
+      "ID": "J4",
+      "NAME": "default (4)",
+      "TABLES": [
+      ]
+    }
   ]
 }
