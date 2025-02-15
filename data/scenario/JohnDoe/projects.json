@@ -5,20 +5,42 @@
       "ID": "J1",
       "NAME": "default",
       "TABLES": [
-        "LBF",
-        "QWT"
+        {
+          "ID": "T3",
+          "NAME": "HLT"
+        },
+        {
+          "ID": "T4",
+          "NAME": "KBW"
+        },
+        {
+          "ID": "T1",
+          "NAME": "LBF"
+        }
       ]
     },
     {
       "ID": "J2",
       "NAME": "default (2)",
       "TABLES": [
+        {
+          "ID": "T3",
+          "NAME": "HLT"
+        },
+        {
+          "ID": "T4",
+          "NAME": "KBW"
+        }
       ]
     },
     {
       "ID": "J3",
       "NAME": "default (3)",
       "TABLES": [
+        {
+          "ID": "T1",
+          "NAME": "LBF"
+        }
       ]
     },
     {
