@@ -3,8 +3,8 @@
   "data": [
     {
       "ID": "J1",
-      "NAME": "default",
-      "DESCRIPTION": "👩🏻‍🚀",
+      "NAME": "👩🏻‍🚀",
+      "DESCRIPTION": "👩🏻‍🚀's description",
       "ORDER": 0,
       "TABLES": [
         {
@@ -23,8 +23,8 @@
     },
     {
       "ID": "J2",
-      "NAME": "default (2)",
-      "DESCRIPTION": "🧙🏻‍♀️",
+      "NAME": "🧙🏻‍♀️",
+      "DESCRIPTION": "🧙🏻‍♀️'s description",
       "ORDER": 1,
       "TABLES": [
         {
@@ -39,8 +39,8 @@
     },
     {
       "ID": "J3",
-      "NAME": "default (3)",
-      "DESCRIPTION": "🧑🏻‍💻",
+      "NAME": "🧑🏻‍💻",
+      "DESCRIPTION": "🧑🏻‍💻's description",
       "ORDER": 2,
       "TABLES": [
         {
@@ -51,16 +51,16 @@
     },
     {
       "ID": "J4",
-      "NAME": "default (4)",
-      "DESCRIPTION": "👨🏻‍🌾",
+      "NAME": "👨🏻‍🌾",
+      "DESCRIPTION": "👨🏻‍🌾's description",
       "ORDER": 3,
       "TABLES": [
       ]
     },
     {
       "ID": "J5",
-      "NAME": "default (5)",
-      "DESCRIPTION": "🐥",
+      "NAME": "🐥",
+      "DESCRIPTION": "🐥's description",
       "ORDER": 4,
       "TABLES": [
       ]
