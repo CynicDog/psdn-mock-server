@@ -4,6 +4,7 @@
     {
       "ID": "J1",
       "NAME": "default",
+      "ORDER": 0,
       "TABLES": [
         {
           "ID": "T3",
@@ -22,6 +23,7 @@
     {
       "ID": "J2",
       "NAME": "default (2)",
+      "ORDER": 1,
       "TABLES": [
         {
           "ID": "T3",
@@ -36,6 +38,7 @@
     {
       "ID": "J3",
       "NAME": "default (3)",
+      "ORDER": 2,
       "TABLES": [
         {
           "ID": "T1",
@@ -46,12 +49,14 @@
     {
       "ID": "J4",
       "NAME": "default (4)",
+      "ORDER": 3,
       "TABLES": [
       ]
     },
     {
       "ID": "J5",
       "NAME": "default (5)",
+      "ORDER": 4,
       "TABLES": [
       ]
     }
