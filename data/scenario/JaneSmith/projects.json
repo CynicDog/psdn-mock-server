@@ -4,6 +4,7 @@
     {
       "ID": "J1",
       "NAME": "default",
+      "DESCRIPTION": "🧙🏻‍♀️",
       "ORDER": 0,
       "TABLES": [
         {
@@ -19,6 +20,7 @@
     {
       "ID": "J2",
       "NAME": "default (2)",
+      "DESCRIPTION": "🧑🏻‍💻",
       "ORDER": 1,
       "TABLES": [
         {
@@ -34,6 +36,7 @@
     {
       "ID": "J3",
       "NAME": "default (3)",
+      "DESCRIPTION": "👩🏻‍🚀",
       "ORDER": 2,
       "TABLES": [
         {
@@ -53,6 +56,7 @@
     {
       "ID": "J4",
       "NAME": "default (4)",
+      "DESCRIPTION": "🦜",
       "ORDER": 3,
       "TABLES": [
       ]
