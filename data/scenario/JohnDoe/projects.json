@@ -6,6 +6,7 @@
       "NAME": "👩🏻‍🚀",
       "DESCRIPTION": "👩🏻‍🚀's description",
       "ORDER": 0,
+      "COLOR": "A",
       "TABLES": [
         {
           "ID": "T3",
@@ -26,6 +27,7 @@
       "NAME": "🧙🏻‍♀️",
       "DESCRIPTION": "🧙🏻‍♀️'s description",
       "ORDER": 1,
+      "COLOR": "A",
       "TABLES": [
         {
           "ID": "T3",
@@ -42,6 +44,7 @@
       "NAME": "🧑🏻‍💻",
       "DESCRIPTION": "🧑🏻‍💻's description",
       "ORDER": 2,
+      "COLOR": "A",
       "TABLES": [
         {
           "ID": "T1",
@@ -54,6 +57,7 @@
       "NAME": "👨🏻‍🌾",
       "DESCRIPTION": "👨🏻‍🌾's description",
       "ORDER": 3,
+      "COLOR": "A",
       "TABLES": [
       ]
     },
@@ -62,6 +66,7 @@
       "NAME": "🐥",
       "DESCRIPTION": "🐥's description",
       "ORDER": 4,
+      "COLOR": "A",
       "TABLES": [
       ]
     }
